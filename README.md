@@ -1,1 +1,2 @@
-my second readme Updated 
+my first readme for 0x01.git 
+README update from github.com
