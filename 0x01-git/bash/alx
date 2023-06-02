@@ -1,8 +1,4 @@
-#!/bin/bash
-echo "ALX School is cool!"
-clear
-^c
-^C
+echo "ALX School"
 echo school'
 cd #!/bin/bash
 echo "alx"
