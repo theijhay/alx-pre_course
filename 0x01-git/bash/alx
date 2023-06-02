@@ -1,7 +1,2 @@
-echo "ALX School"
-echo school'
-cd #!/bin/bash
-echo "alx"
-wq
-echo "ALX"^C
-echo "ALX"
+#!/bin/bash
+echo "ALX school"
